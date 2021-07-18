@@ -42,7 +42,7 @@
 ################################################################
 
 
-cfgPath="VBoxInternal/Devices/pcbios/0/Config"
+cfgPath="VBoxInternal/Devices/efi/0/Config"
 
 # Simple error handler ########################################
 errorHandle() {
